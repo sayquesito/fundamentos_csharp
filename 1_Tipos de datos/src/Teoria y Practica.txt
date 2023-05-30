@@ -1,0 +1,70 @@
+1. Tipos de datos numéricos: int, double, decimal
+
+   - int: Se utiliza para representar números enteros. Es un tipo de dato de 32 bits. Ejemplo:
+     
+     int age = 25;
+     
+
+   - double: Se utiliza para representar números con decimales. Es un tipo de dato de punto flotante de 64 bits. Ejemplo:
+     
+     double pi = 3.14159;
+     
+
+   - decimal: Se utiliza para representar valores monetarios o números que requieren alta precisión decimal. Es un tipo de dato de 128 bits. Se recomienda su uso en situaciones donde la precisión es fundamental, como cálculos financieros. Ejemplo:
+     
+     decimal price = 19.99m;
+     
+
+2. Tipos de datos de cadena: string, char, StringBuilder
+
+   - string: Se utiliza para representar una secuencia de caracteres. Es inmutable, lo que significa que no se puede modificar una vez creado. Ejemplo:
+     
+     string message = "Hola, ¿cómo estás?";
+     
+
+   - char: Se utiliza para representar un único carácter Unicode. Ejemplo:
+     
+     char grade = 'A';
+     
+
+   - StringBuilder: Se utiliza para manipular cadenas de caracteres de manera eficiente, especialmente cuando se necesitan realizar muchas operaciones de concatenación o modificación en la cadena. Ejemplo:
+     
+     StringBuilder sb = new StringBuilder();
+     sb.Append("Hello");
+     sb.Append(" World");
+     string result = sb.ToString(); // "Hello World"
+     
+
+3. Tipos de datos booleanos: bool
+
+   - bool: Se utiliza para representar un valor verdadero (true) o falso (false). Ejemplo:
+     
+     bool isTrue = true;
+     bool isFalse = false;
+     
+
+4. Tipos de datos de fecha y hora: DateTime, TimeSpan, TimeZoneInfo
+
+   - DateTime: Se utiliza para representar una fecha y hora específicas. Ejemplo:
+     
+     DateTime now = DateTime.Now;
+     
+
+   - TimeSpan: Se utiliza para representar una duración o intervalo de tiempo. Ejemplo:
+     
+     TimeSpan duration = TimeSpan.FromHours(2);
+     
+
+   - TimeZoneInfo: Se utiliza para representar información sobre la zona horaria. Ejemplo:
+     
+     TimeZoneInfo timeZone = TimeZoneInfo.Local;
+     
+
+5. Tipos de datos de objetos: object
+
+   - object: Es el tipo base de todos los demás tipos en C#. Puede contener cualquier tipo de valor. Ejemplo:
+     
+     object data = "Hello World";
+     int length = data.ToString().Length; // Acceso a métodos y propiedades específicas del tipo
+     
+

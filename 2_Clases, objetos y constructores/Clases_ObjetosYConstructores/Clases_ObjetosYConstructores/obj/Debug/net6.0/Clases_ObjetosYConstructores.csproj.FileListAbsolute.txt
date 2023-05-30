@@ -1,0 +1,15 @@
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\bin\Debug\net6.0\Clases_ObjetosYConstructores.exe
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\bin\Debug\net6.0\Clases_ObjetosYConstructores.deps.json
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\bin\Debug\net6.0\Clases_ObjetosYConstructores.runtimeconfig.json
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\bin\Debug\net6.0\Clases_ObjetosYConstructores.dll
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\bin\Debug\net6.0\Clases_ObjetosYConstructores.pdb
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.csproj.AssemblyReference.cache
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.AssemblyInfoInputs.cache
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.AssemblyInfo.cs
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.csproj.CoreCompileInputs.cache
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.dll
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\refint\Clases_ObjetosYConstructores.dll
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.pdb
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\Clases_ObjetosYConstructores.genruntimeconfig.cache
+C:\Users\D4nil\OneDrive\Documentos\Aprender c#\2_Clases, objetos y constructores\Clases_ObjetosYConstructores\Clases_ObjetosYConstructores\obj\Debug\net6.0\ref\Clases_ObjetosYConstructores.dll
